@@ -17,7 +17,7 @@ title: AOSSiE Blog
 site-name: AOSSiE Blog
 email: 
 description: Australian Open Source Software Innovation and Education
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: /aossie-blogs/ # the subpath of your site, e.g. /blog
 url: "https://aossie.gitlab.io/aossie-blogs" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
