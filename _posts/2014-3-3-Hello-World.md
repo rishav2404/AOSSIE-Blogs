@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to AOSSiE Blogs
+title: Welcome to AOSSIE Blogs
 ---
 
-You are welcome to post anything related to AOSSiE here if you are a member of AOSSiE.
+You are welcome to post anything related to AOSSIE here if you are a member of AOSSiE.
 
-Go to this [repository](https://github.com/AOSSiE-Blogs/aossie-blogs.github.io) and change the file in _posts folder on GitHub.
+Go to this [repository](https://gitlab.com/aossie/aossie-blogs.git) and change the file in _posts folder on GitHub.
