@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AOSSiE Blog
-site-name: AOSSiE Blog
+title: AOSSIE Blog
+site-name: AOSSIE Blog
 email: 
 description: Australian Open Source Software Innovation and Education
 baseurl: /aossie-blogs/ # the subpath of your site, e.g. /blog

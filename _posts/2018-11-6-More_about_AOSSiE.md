@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More about AOSSiE
+title: More about AOSSIE
 ---
 
 The Australian umbrella organization for open-source projects.
